@@ -7,7 +7,7 @@ public class Calculator {
     */
     static final String MATH_OPERATION = "+-*/=";
     static final String EXIT_OPERATION = "EeQqSs";
-    static final String CLEAR_OPERATION = "C";
+    static final String CLEAR_OPERATION = "Cc";
     static final String VALID_OPERATION = MATH_OPERATION+EXIT_OPERATION+CLEAR_OPERATION;
     //
     public static void main(String[] args) {
