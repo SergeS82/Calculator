@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Calculator {
-    /*список доступных оп ераций
+    /*список доступных операций
      EeQqSs - выход из программы
      Сс - сброс результата
     */
