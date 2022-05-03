@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Calculator {
     /*список доступных операций
-     EeQqSs - выход из программ   ы s w
+     EeQqSs - выход из программ   ы s w q
      Сс - сброс результата
     */
     static final String MATH_OPERATION = "+-*/=";
